@@ -4,7 +4,7 @@
 * Run the following command to execute all search API tests since the main function loads the test suite internally using JUnit API
 ```java -jar iTunesSearchAPI.jar```
 
- # List of Libraries used for the project:
+# List of Libraries used for the project:
 * commons-codec-1.9.jar
 * commons-logging-1.2.jar
 * fluent-hc-4.5.jar

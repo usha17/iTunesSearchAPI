@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/commons-lang-2.6 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/fluent-hc-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ushab/Downloads/jersey-bundle-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/lib/junit-4.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
